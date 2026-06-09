@@ -1,0 +1,10 @@
+INSERT INTO Defect
+VALUES
+(
+503,
+101,
+1,
+'Payment Issue',
+'High',
+'Open'
+);
